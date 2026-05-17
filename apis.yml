@@ -6,7 +6,7 @@ description: >-
   employees offering retail and corporate banking, asset management, and residential
   mortgage services. This repository tracks APIs, SDKs, and other developer resources
   associated with PNC Financial Services Group.
-type: Contract
+kind: contract
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
