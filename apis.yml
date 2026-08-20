@@ -23,6 +23,13 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pnc-financial-services-group.png
 tags:
   - Banking
+  - Financial-Services
+  - Fortune 500
+  - Retail Banking
+  - Corporate Banking
+  - Asset Management
+tags_raw:
+  - Banking
   - Financial Services
   - Fortune 500
   - Retail Banking
